@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'orevicons';
+  src:  url('fonts/icomoon.eot?h5j33y');
+  src:  url('fonts/icomoon.eot?h5j33y#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?h5j33y') format('truetype'),
+    url('fonts/icomoon.woff?h5j33y') format('woff'),
+    url('fonts/icomoon.svg?h5j33y#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="orevcon-"], [class*=" orevcon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'orevicons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.orevcon-crm:before {
+  content: "\e900";
+}
+.orevcon-statistics:before {
+  content: "\e901";
+}
+.orevcon-settings:before {
+  content: "\e902";
+}
+.orevcon-report:before {
+  content: "\e903";
+}
+.orevcon-analytics:before {
+  content: "\e904";
+}
+.orevcon-monitor:before {
+  content: "\e905";
+}
+.orevcon-dashboard:before {
+  content: "\e906";
+}
+.orevcon-accounting:before {
+  content: "\e907";
+}
+.orevcon-money:before {
+  content: "\e908";
+}
+.orevcon-secure-shield:before {
+  content: "\e909";
+}
+.orevcon-stats:before {
+  content: "\e90a";
+}
+.orevcon-box:before {
+  content: "\e90b";
+}
